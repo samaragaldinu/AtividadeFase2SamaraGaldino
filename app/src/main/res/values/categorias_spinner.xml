@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>Além do Código: Inovação e Criatividade em TI</item>
+        <item>Revolução Digital: O Futuro da Tecnologia</item>
+        <item>Segurança Cibernética: Protegendo o Mundo Virtual</item>
+        <item>Big Data e IA: Transformando Dados em Decisões</item>
+        <item>Cloud Computing: O Céu é o Limite</item>
+        <item>Agilidade em TI: Métodos e Práticas para o Sucesso</item>
+        <item>A Jornada do DevOps: Unindo Desenvolvimento e Operações</item>
+        <item>UX/UI Design: Criando Experiências Memoráveis</item>
+
+    </string-array>
+</resources>
